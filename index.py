@@ -14,14 +14,12 @@ container_ip = socket.gethostbyname(socket.gethostname())
 print(f"""
 <html>
 <head>
-    <title>Python CGI Example</title>
+    <title>my way to dominate the world...</title>
 </head>
 <body>
-    <h1>Hello from Python CGI!</h1>
+    <h1>the container are running via round robin</h1>
 
     <p>Container IP address: <strong>{container_ip}</strong></p>
-
-    <p>This page is served from inside a Python CGI script.</p>
 
 </body>
 </html>
