@@ -17,7 +17,7 @@ print(f"""
     <title>my way to dominate the world...</title>
 </head>
 <body>
-    <h1>the container are running via round robin</h1>
+    <h1>this container is running via round robin</h1>
 
     <p>Container IP address: <strong>{container_ip}</strong></p>
 
